@@ -1,0 +1,12 @@
+[
+  {
+    "package": "scmarkeragent",
+    "url": "https://github.com/HaoRan-Code/scMarkerAgent",
+    "subdir": "R"
+  },
+  {
+    "package": "presto",
+    "url": "https://github.com/HaoRan-Code/presto",
+    "branch": "scmarkeragent"
+  }
+]
