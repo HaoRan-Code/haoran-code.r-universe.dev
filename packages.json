@@ -2,7 +2,10 @@
   {
     "package": "scmarkeragent",
     "url": "https://github.com/HaoRan-Code/scMarkerAgent",
-    "subdir": "R"
+    "subdir": "R",
+    "metadata": {
+      "source_commit": "89ed27413bd6934ffba31021516ee5ebac80b773"
+    }
   },
   {
     "package": "presto",
